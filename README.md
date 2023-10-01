@@ -4,7 +4,7 @@
 
 ## 📋 Project Overview
 
-### Assignment 1 [Link Text](relative/path/to/page.md)
+### [Assignment 1](relative/path/to/MLE)
 - In Assignment 1, we dive into fundamental concepts of machine learning. We explore HOG (Histogram of Oriented Gradients) features, a powerful technique for object detection and image analysis. Additionally, we delve into the intricacies of confusion matrices, providing insights into model performance evaluation. Our journey includes model inspection to understand what goes on behind the scenes and thorough model evaluation to gauge the effectiveness of our machine learning approach.
 
 ### Assignment 2
