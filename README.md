@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Machine Learning Engineering Assignment">
-</p>
-
 <h1 align="center">Machine Learning Engineering Assignment</h1>
 
 <p align="center">Welcome to the repository for your Machine Learning Engineering assignment. In this project, we explore the exciting world of machine learning and put our engineering skills to the test. From data preprocessing to model evaluation, we've got it all covered!</p>
