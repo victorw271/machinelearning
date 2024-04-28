@@ -1,6 +1,6 @@
-<h1 align="center">Machine Learning Engineering Assignment</h1>
+<h1 align="center">Machine Learning Assignment</h1>
 
-<p align="center">Welcome to the repository of my Machine Learning Engineering assignment. In this repository, we explore the exciting world of machine learning and put our engineering skills to the test. From data preprocessing to model evaluation, we've got it all covered!</p>
+<p align="center">Welcome to the repository of my Machine Learning assignments. In this repository, we explore the exciting world of machine learning and put our engineering skills to the test. From data preprocessing to model evaluation, we've got it all covered!</p>
 
 ## 📋 Project Overview
 
