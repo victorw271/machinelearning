@@ -13,7 +13,7 @@
 ### [Assignment 3](MLE/assignment-3-victorw271/Assignment_3_2023.ipynb)
 - In Assignment 3, we embark on the adventure of building our own Convolutional Neural Network (CNN). We dive deep into the design and architecture of custom CNNs. Additionally, we inspect activation layers to understand how information flows through our network. As a bonus challenge, we enhance a pre-trained CNN with our own unique additions, pushing the boundaries of what's possible in computer vision.
 
-These assignments collectively provide a comprehensive journey through the diverse and exciting field of Machine Learning Engineering.
+These assignments collectively provide a comprehensive journey through the diverse and exciting field of Machine Learning.
 
 
 
